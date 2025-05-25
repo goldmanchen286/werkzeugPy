@@ -55,7 +55,7 @@ PyYAML = ">= 5.1"
 requests = ">= 2.27"
 starlette = ">= 0.35"
 typing-extensions = ">= 4.6.1"
-werkzeug = "2.3.7"
+werkzeug = "= 2.3.7"
 
 a2wsgi = { version = ">= 1.7", optional = true }
 flask = { version = ">= 2.2", extras = ["async"], optional = true }
